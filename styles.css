@@ -24,7 +24,7 @@ button {
 	cursor: pointer;
 	font-family: "Lexend Deca", sans-serif;
 	font-size: 15px;
-	padding: 14px 28px;
+	padding: 18px 28px;
 	text-decoration: none;
     margin-bottom: 10px;
 }
@@ -34,7 +34,7 @@ button:hover {
     color: hsl(0, 0%, 95%);
     border-style: solid;
     border-width: 2px;
-    padding: 12px 26px;
+    padding: 16px 26px;
 }
 
 .container {
